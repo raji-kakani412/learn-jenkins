@@ -63,7 +63,7 @@ pipeline {
                 }
             }    
             steps {
-                echo "Hello, ${PERSON}, nice to meet you and welcome to Jenkins."
+                echo "Hello, ${PERSON}, nice to meet you and Welcome to Jenkins."
             }
         }  
     }
